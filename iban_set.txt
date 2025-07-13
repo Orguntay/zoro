@@ -1,0 +1,308 @@
+[
+  {
+    "AD_SOYAD": "Selver Erdogan",
+    "BANKA_ADI": "Enpara",
+    "IBAN": "TR54 0011 1000 0000 0097 0539 53",
+    "AMOUNT": 75000
+  },
+  {
+    "AD_SOYAD": "Sinan Sağlam",
+    "BANKA_ADI": "Ziraat Bankası",
+    "IBAN": "TR31 0001 0001 5090 8937 8750 03",
+    "AMOUNT": 42500
+  },
+  {
+    "AD_SOYAD": "Hami Akça",
+    "BANKA_ADI": "Vakıfbank",
+    "IBAN": "TR42 0001 5001 5800 7306 3214 56",
+    "AMOUNT": 88000
+  },
+  {
+    "AD_SOYAD": "Mehmet Akif Tunç",
+    "BANKA_ADI": "Yapı Kredi",
+    "IBAN": "TR39 0006 7010 0000 0052 0825 76",
+    "AMOUNT": 63700
+  },
+  {
+    "AD_SOYAD": "REŞİT ERSOY",
+    "BANKA_ADI": "Garanti",
+    "IBAN": "TR25 0006 2000 4540 0006 8477 53",
+    "AMOUNT": 95200
+  },
+  {
+    "AD_SOYAD": "İbrahim Karasu",
+    "BANKA_ADI": "Akbank",
+    "IBAN": "TR12 0004 6004 2388 8000 2627 90",
+    "AMOUNT": 29800
+  },
+  {
+    "AD_SOYAD": "Sevim Kızılçukur",
+    "BANKA_ADI": "Yapı Kredi",
+    "IBAN": "TR84 0006 7010 0000 0086 0390 41",
+    "AMOUNT": 51300
+  },
+  {
+    "AD_SOYAD": "Fuat Felek",
+    "BANKA_ADI": "Akbank",
+    "IBAN": "TR82 0004 6009 6888 8000 0018 68",
+    "AMOUNT": 350000
+  },
+  {
+    "AD_SOYAD": "Mustafa Kurt",
+    "BANKA_ADI": "İş Bankası",
+    "IBAN": "TR88 0006 4000 0012 0003 1413 70",
+    "AMOUNT": 250000
+  },
+  {
+    "AD_SOYAD": "Busenur Baynaz",
+    "BANKA_ADI": "Denizbank",
+    "IBAN": "TR44 0013 4000 0164 8527 4000 01",
+    "AMOUNT": 200000
+  },
+  {
+    "AD_SOYAD": "Sultan Özen Kuşçu",
+    "BANKA_ADI": "Ziraat Bankası",
+    "IBAN": "TR28 0001 0002 9375 3377 2350 02",
+    "AMOUNT": 150000
+  },
+  {
+    "AD_SOYAD": "Mehmet Soyçiçek",
+    "BANKA_ADI": "Akbank",
+    "IBAN": "TR24 0004 6006 9888 8000 1533 76",
+    "AMOUNT": 300000
+  },
+  {
+    "AD_SOYAD": "MELİH GERDAN",
+    "BANKA_ADI": "Akbank",
+    "IBAN": "TR45 0004 6003 6288 8000 1451 60",
+    "AMOUNT": 350000
+  },
+  {
+    "AD_SOYAD": "Ural Sülük",
+    "BANKA_ADI": "Ziraat Bankası",
+    "IBAN": "TR77 0006 2899 7275 2275 1594 38",
+    "AMOUNT": 180000
+  },
+  {
+    "AD_SOYAD": "Ahmet Melih Dökmeci",
+    "BANKA_ADI": "İş Bankası",
+    "IBAN": "TR04 0006 2367 7122 3452 8636 48",
+    "AMOUNT": 220000
+  },
+  {
+    "AD_SOYAD": "Dilşah Bilici",
+    "BANKA_ADI": "Halkbank",
+    "IBAN": "TR49 0006 2617 8125 7648 1633 49",
+    "AMOUNT": 75500
+  },
+  {
+    "AD_SOYAD": "Suat Bacanlı",
+    "BANKA_ADI": "Vakıfbank",
+    "IBAN": "TR58 0006 2722 1581 9964 5133 28",
+    "AMOUNT": 110000
+  },
+  {
+    "AD_SOYAD": "Emir Kaan Binici",
+    "BANKA_ADI": "Garanti",
+    "IBAN": "TR16 0006 2988 8172 1289 9118 69",
+    "AMOUNT": 185000
+  },
+  {
+    "AD_SOYAD": "Orçun Yassı",
+    "BANKA_ADI": "Yapı Kredi",
+    "IBAN": "TR87 0006 2541 9467 2125 7737 59",
+    "AMOUNT": 92500
+  },
+  {
+    "AD_SOYAD": "İhsan Burak Kürkçüoğlu",
+    "BANKA_ADI": "Akbank",
+    "IBAN": "TR97 0006 2946 4342 4223 6686 88",
+    "AMOUNT": 275000
+  },
+  {
+    "AD_SOYAD": "Merve Ercilasun",
+    "BANKA_ADI": "TEB",
+    "IBAN": "TR60 0006 2835 9667 1726 5165 54",
+    "AMOUNT": 130000
+  },
+  {
+    "AD_SOYAD": "İlkay Alemdar",
+    "BANKA_ADI": "QNB Finansbank",
+    "IBAN": "TR22 0006 2522 3853 2892 1685 65",
+    "AMOUNT": 195000
+  },
+  {
+    "AD_SOYAD": "Reşit Volkan Şahbazoğlu",
+    "BANKA_ADI": "Denizbank",
+    "IBAN": "TR90 0006 2528 5886 2736 3165 43",
+    "AMOUNT": 240000
+  },
+  {
+    "AD_SOYAD": "Suzan Koltuk",
+    "BANKA_ADI": "Odeabank",
+    "IBAN": "TR37 0006 2242 1273 7149 3215 89",
+    "AMOUNT": 85000
+  },
+  {
+    "AD_SOYAD": "Necmettin Çağıl",
+    "BANKA_ADI": "Vakıfbank",
+    "IBAN": "TR84 0006 2476 5213 9391 9975 87",
+    "AMOUNT": 170000
+  },
+  {
+    "AD_SOYAD": "Firdevs Bozdağ",
+    "BANKA_ADI": "ING",
+    "IBAN": "TR82 0006 2973 6344 1773 9529 63",
+    "AMOUNT": 115000
+  },
+  {
+    "AD_SOYAD": "Serhan Urfalı",
+    "BANKA_ADI": "HSBC",
+    "IBAN": "TR15 0006 2725 3697 5954 4127 99",
+    "AMOUNT": 205000
+  },
+  {
+    "AD_SOYAD": "İsmail Evren Çetintaş",
+    "BANKA_ADI": "İş Bankası",
+    "IBAN": "TR30 0006 2454 3852 8583 5711 23",
+    "AMOUNT": 280000
+  },
+  {
+    "AD_SOYAD": "Şükriye Toksöz",
+    "BANKA_ADI": "Yapı Kredi",
+    "IBAN": "TR90 0006 2273 2348 2349 5599 44",
+    "AMOUNT": 145000
+  },
+  {
+    "AD_SOYAD": "Uğurcan Potuk",
+    "BANKA_ADI": "Ziraat Bankası",
+    "IBAN": "TR03 0006 2442 9413 6659 2723 58",
+    "AMOUNT": 230000
+  },
+  {
+    "AD_SOYAD": "Yakup Onur Harmankaya",
+    "BANKA_ADI": "ING",
+    "IBAN": "TR12 0006 2398 9316 6815 1846 65",
+    "AMOUNT": 165000
+  },
+  {
+    "AD_SOYAD": "Pınar Gümüşsu",
+    "BANKA_ADI": "Akbank",
+    "IBAN": "TR95 0006 2689 8991 7343 7929 33",
+    "AMOUNT": 310000
+  },
+  {
+    "AD_SOYAD": "Birtan İşcan",
+    "BANKA_ADI": "Yapı Kredi",
+    "IBAN": "TR76 0006 2823 7386 8256 6238 57",
+    "AMOUNT": 125000
+  },
+  {
+    "AD_SOYAD": "Necdet Karaaslan",
+    "BANKA_ADI": "Şekerbank",
+    "IBAN": "TR67 0006 2786 5776 6799 7714 66",
+    "AMOUNT": 95000
+  },
+  {
+    "AD_SOYAD": "Hüseyin Yavuz Gözaçan",
+    "BANKA_ADI": "Citibank",
+    "IBAN": "TR37 0006 2285 9895 1714 9984 45",
+    "AMOUNT": 215000
+  },
+  {
+    "AD_SOYAD": "Emirhan Pehlivan",
+    "BANKA_ADI": "QNB Finansbank",
+    "IBAN": "TR75 0006 2654 3589 5753 1316 12",
+    "AMOUNT": 290000
+  },
+  {
+    "AD_SOYAD": "Nezir Lagarlı",
+    "BANKA_ADI": "Halkbank",
+    "IBAN": "TR33 0006 2338 8667 3211 3559 58",
+    "AMOUNT": 155000
+  },
+  {
+    "AD_SOYAD": "Hikmet Menekşe",
+    "BANKA_ADI": "Yapı Kredi",
+    "IBAN": "TR61 0006 2861 7579 6778 7975 77",
+    "AMOUNT": 175000
+  },
+  {
+    "AD_SOYAD": "Neşe Güven",
+    "BANKA_ADI": "Akbank",
+    "IBAN": "TR37 0006 2268 1685 7721 8487 31",
+    "AMOUNT": 320000
+  },
+  {
+    "AD_SOYAD": "Ender Yürek",
+    "BANKA_ADI": "QNB Finansbank",
+    "IBAN": "TR15 0006 2237 3913 3235 6218 69",
+    "AMOUNT": 210000
+  },
+  {
+    "AD_SOYAD": "Lara Öğüt",
+    "BANKA_ADI": "Halkbank",
+    "IBAN": "TR60 0006 2244 5458 3182 8976 51",
+    "AMOUNT": 105000
+  },
+  {
+    "AD_SOYAD": "Kemal Uluba",
+    "BANKA_ADI": "İş Bankası",
+    "IBAN": "TR60 0006 2244 5458 3182 8976 52",
+    "AMOUNT": 265000
+  },
+  {
+    "AD_SOYAD": "Gökhan Akbaş",
+    "BANKA_ADI": "Ziraat Bankası",
+    "IBAN": "TR05 0006 2928 3828 2494 3276 19",
+    "AMOUNT": 190000
+  },
+  {
+    "AD_SOYAD": "Açelya Bayav",
+    "BANKA_ADI": "Garanti",
+    "IBAN": "TR83 0006 2641 9623 1235 9683 44",
+    "AMOUNT": 135000
+  },
+  {
+    "AD_SOYAD": "Rüya Kazbek",
+    "BANKA_ADI": "Denizbank",
+    "IBAN": "TR96 0006 2655 8323 4892 4939 86",
+    "AMOUNT": 235000
+  },
+  {
+    "AD_SOYAD": "Sabri Sefa Durman",
+    "BANKA_ADI": "Vakıfbank",
+    "IBAN": "TR29 0006 2478 6387 7957 5796 35",
+    "AMOUNT": 160000
+  },
+  {
+    "AD_SOYAD": "Veysi Kök",
+    "BANKA_ADI": "ING",
+    "IBAN": "TR42 0006 2893 1454 7763 9399 67",
+    "AMOUNT": 120000
+  },
+  {
+    "AD_SOYAD": "Eda Özaydın",
+    "BANKA_ADI": "QNB Finansbank",
+    "IBAN": "TR67 0006 2726 4366 1269 6986 51",
+    "AMOUNT": 285000
+  },
+  {
+    "AD_SOYAD": "Hediye Kaymaz",
+    "BANKA_ADI": "Ziraat Bankası",
+    "IBAN": "TR56 0006 2438 1126 4622 6419 83",
+    "AMOUNT": 140000
+  },
+  {
+    "AD_SOYAD": "Emin Dikmen",
+    "BANKA_ADI": "İş Bankası",
+    "IBAN": "TR44 0006 2823 6167 3744 9231 64",
+    "AMOUNT": 270000
+  },
+  {
+    "AD_SOYAD": "Gökhan Kara",
+    "BANKA_ADI": "Halkbank",
+    "IBAN": "TR97 0006 2146 9592 4679 2953 47",
+    "AMOUNT": 200000
+  }
+]
